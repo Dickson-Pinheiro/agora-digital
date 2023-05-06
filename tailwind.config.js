@@ -7,10 +7,15 @@ module.exports = {
   ],
   theme: {
     extend: {
+      colors: {
+        'purple-400': 'rgba(157,87,255,255)',
+        'blue-600': 'rgba(14,49,167,255)',
+        'blue-400': 'rgba(45,64,236,255)' 
+      },
       backgroundImage: {
-        'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
-        'gradient-conic':
-          'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
+       'purple-400': 'rgba(157,87,255,255)',
+       'blue-600': 'rgba(157,87,255,255)',
+       'blue-400': 'rgba(45,64,236,255)'      
       },
     },
   },
