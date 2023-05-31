@@ -17,9 +17,9 @@ export default function About() {
               políticas, visando o incentivo e o
               fomento da educação digital.</p>
           </div>
-          <div className='flex flex-col justify-around max-w-lg mr-20'>
-            <h2 className='text-white font-bold text-2xl'>A Ágora Digital oferece…</h2>
-            <p className='text-md text-white text-left p-2'>
+          <div className='flex flex-col justify-around max-w-lg'>
+            <h2 className='text-white font-bold text-2xl text-right'>A Ágora Digital oferece…</h2>
+            <p className='text-md text-white p-2 text-right'>
               Suporte integral na implementação de um itinerário formativo
               junto ao ensino escolar. 
               Esse itinerário abarca toda a formação

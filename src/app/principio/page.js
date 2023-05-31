@@ -6,7 +6,7 @@ export default function Principio() {
     return (
         <div className='bg-gradient-to-tr from-blue-600 from-30% via-blue-400 via-65% to-purple-400 flex-col'>
             <div className=' min-w-screen min-h-screen bg-no-repeat bg-right-bottom bg-none bg-25 md:bg-sammy p-4'>
-                <h1 className='text-white font-bold text-6xl text-center mb-8'>Principios</h1>
+                <h1 className='text-white font-bold text-6xl text-center mb-8'>Princípios</h1>
                 <div className="flex justify-center items-center">
                     <ul className='flex flex-col gap-6 p-6 max-w-xl'>
                         <li className='text-white font-normal text-md flex items-center gap-4'><span className='text-purple-600 text-2xl'>⬡</span> A habilidade de programar vai além domínio da linguagem de

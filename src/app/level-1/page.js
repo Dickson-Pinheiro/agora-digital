@@ -5,7 +5,7 @@ export default function LevelUm() {
         <div className='bg-gradient-to-tr from-blue-600 from-30% via-blue-400 via-65% to-purple-400 flex-col'>
             <div className='min-w-screen min-h-screen p-4'>
 
-                <h1 className='text-white font-bold text-5xl text-center mb-8'>Nivel Um</h1>
+                <h1 className='text-white font-bold text-5xl text-center mb-8'>Nível Um</h1>
                 <div className="flex items-center justify-center font-semibold mb-10">
                     <p className="text-lg max-w-4xl text-center text-white">Entendemos que é importante, nesse nível,
                         trabalhar com a solução de pequenos problemas,
